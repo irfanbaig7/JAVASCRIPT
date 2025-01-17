@@ -1,0 +1,19 @@
+1. Foundation of JavaScript
+
+Key Concepts:
+
+- What is JavaScript? Why is it important?
+- Setup: Node.js, Browser DevTools
+- Variables: let, const, var
+- Data Types: Primitive and Reference
+- Operators: Arithmetic, Logical, Comparison
+
+
+
+2. Control Flow
+
+Key Concepts:
+
+- Conditional Statements (if, else, switch)
+- Loops (for, while, for...in, for...of)
+- Error Handling (try, catch, finally)
